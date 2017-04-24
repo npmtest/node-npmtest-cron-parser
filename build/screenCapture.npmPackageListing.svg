@@ -1,0 +1,19 @@
+<svg height="254" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="254" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-24 18:54:31 +0000    71701 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-24 18:54:31 +0000     1084 bytes  LICENSE</tspan>
+<tspan x="10" y="58">  2.  2017-04-24 18:54:31 +0000     4479 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-24 18:54:31 +0000      341 bytes  component.json</tspan>
+<tspan x="10" y="90">  4.  2017-04-24 18:54:31 +0000     4241 bytes  lib/date.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-24 18:54:31 +0000    17915 bytes  lib/expression.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-24 18:54:31 +0000     2286 bytes  lib/parser.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-24 18:54:31 +0000     3722 bytes  package.json</tspan>
+<tspan x="10" y="154">  8.  2017-04-24 18:54:31 +0000      381 bytes  test/31_of_month.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-24 18:54:31 +0000      131 bytes  test/crontab.example</tspan>
+<tspan x="10" y="186"> 10.  2017-04-24 18:54:31 +0000    23921 bytes  test/expression.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-24 18:54:31 +0000      719 bytes  test/increment_on_first_iteration.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-24 18:54:31 +0000     1206 bytes  test/parser.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-24 18:54:31 +0000    11275 bytes  test/timezone.js</tspan>
+</text>
+</svg>
